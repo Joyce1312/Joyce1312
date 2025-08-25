@@ -16,6 +16,11 @@
 Built with Flask, Jinja, HTML/CSS, and JS  
 Features: user login, shopping cart, dynamic product pages
 
+**🥘 Recipe Finder Website – Team project (in progress)**
+Collaborating with 2 peers to design and build a recipe finder platform
+Prototype first fully designed in Figma, then implemented with HTML, CSS, and JavaScript
+Features: search recipes by available ingredients and filter by categories (e.g., cuisine, meal type)
+
 ---
 
 ## 📫 Contact
