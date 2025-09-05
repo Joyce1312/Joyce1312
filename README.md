@@ -24,7 +24,7 @@ Features: search recipes by available ingredients and filter by categories (e.g.
 ---
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joyce-yeung-952421255/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyce03184j@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joyceyeung-tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyce03184j@gmail.com) 
 
 
 Thanks for visiting my profile! 😊
