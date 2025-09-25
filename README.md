@@ -12,24 +12,24 @@
 ---
 
 ## 🚀 Highlight Project
-**🎮 Jeopardy Game** – Internship project  
+**🎮 Jeopardy Game** – Internship project   
 Built with HTML, CSS, and JavaScript  
-Features: category selection, timed questions, multiplayer scoring
+Features: category selection, timed questions, multiplayer scoring  
 [Demo](https://joyce1312.github.io/Jeopardy/)  
 
 **🛍️ eCommerce Site** – Final project for CS50x  
 Built with Flask, Jinja, HTML/CSS, and JS  
-Features: user login, shopping cart, dynamic product pages
+Features: user login, shopping cart, dynamic product pages  
 [Demo](https://e-commerce-hlvh.onrender.com/) | [Video](https://youtu.be/6D7-cFlIxgg)
 
 **✅ To-Do Application** – *(TripleTen project)*
 Built with JavaScript (OOP modules), HTML, and CSS  
-Features: modular structure with reusable classes, add/delete tasks, due dates, mark as complete, real-time task counter
+Features: modular structure with reusable classes, add/delete tasks, due dates, mark as complete, real-time task counter  
 [Demo](https://joyce1312.github.io/se_project_todo-app/) 
 
 **📸 Spots – Social Media Card Gallery** – *(TripleTen project, in progress)*  
 Built with JavaScript (OOP modules), HTML, CSS, Webpack  
-Features (in development): add/remove image cards, like content, edit profile, responsive layout  
+Features (in development): add/remove image cards, like content, edit profile, responsive layout   
 [Demo](https://joyce1312.github.io/se_project_spots/) 
 
 **🥘 Recipe Finder Website** – Team project *(in progress)*  
