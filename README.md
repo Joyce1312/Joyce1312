@@ -22,8 +22,8 @@ Built with Flask, Jinja, HTML/CSS, and JS
 Features: user login, shopping cart, dynamic product pages  
 [Demo](https://e-commerce-hlvh.onrender.com/) | [Video](https://youtu.be/6D7-cFlIxgg)
 
-**✅ To-Do Application** – *(TripleTen project)*
-Built with JavaScript (OOP modules), HTML, and CSS  
+**✅ To-Do Application** – *(TripleTen project)*  
+Built with JavaScript (OOP modules), HTML, and CSS    
 Features: modular structure with reusable classes, add/delete tasks, due dates, mark as complete, real-time task counter  
 [Demo](https://joyce1312.github.io/se_project_todo-app/) 
 
